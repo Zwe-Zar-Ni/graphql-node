@@ -134,7 +134,7 @@ mutation DeleteGame {
 }
 ```
 
-###Client
+## Client
 
 ```
 cd client
