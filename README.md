@@ -2,6 +2,10 @@
 
 This guide will set up a GraphQL server using Node.js, Apollo Server, and ES modules.
 
+[Apollo - React - GraphQL](https://www.apollographql.com/docs/react/get-started/)
+
+[Apollo - Node - GraphQl](https://www.apollographql.com/docs/apollo-server/getting-started)
+
 ## Prerequisites
 
 - Node.js installed (version 20+ recommended)
@@ -151,5 +155,3 @@ npm run dev
 5.  **Relationships**: How types connect to each other (e.g., Game to Reviews)
 
 This implementation provides a complete GraphQL API for managing games, reviews, and authors with full CRUD operations.
-[React](https://www.apollographql.com/docs/react)
-[Node](https://www.apollographql.com/docs/apollo-server/getting-started)
